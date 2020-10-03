@@ -10,7 +10,7 @@ This plugin adds a connection to the top.gg profile page on the connections tab,
 
 Feel free to open an issue on this repo if you want to highlight an issue or give a suggestion.
 
-Alternatively you can get in touch with either [Amie](https://dsc.bot/amie) or [Marvin](https://dsc.bot/marvin) if you want to.
+
 
 ### Features to be Added
 
