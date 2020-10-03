@@ -16,3 +16,5 @@ Alternatively you can get in touch with either [Amie](https://dsc.bot/amie) or [
 
  - Connections on top.gg showing in the connections on the users profile.
  - Badges from top.gg showing in the badges area on the users profile.
+
+based on the discord-bio plugin
