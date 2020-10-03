@@ -1,4 +1,4 @@
-# Discord.bot
+# top.gg info
 
 A powercord plugin that shows a users' details from [top.gg](https://top.gg) on the profile modal.
 
