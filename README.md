@@ -17,4 +17,4 @@ Feel free to open an issue on this repo if you want to highlight an issue or giv
  - Connections on top.gg showing in the connections on the users profile.
  - Badges from top.gg showing in the badges area on the users profile.
 
-based on the discord-bio plugin
+based on the discord-bio plugin and the enhanceddiscord plugin by juby
