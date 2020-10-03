@@ -4,7 +4,7 @@ A powercord plugin that shows a users' details from [top.gg](https://top.gg) on 
 
 To use the plugin, it is highly recommended that you `git clone` this repo, as Discord does tend to change how components are rendered and added to to the client.
 
-This plugin adds a connection to the top.gg profile page on the connections tab, and adds a new tab to the profile modal which has the data retrieved from the [top.gg](https://top.gg) api.
+This plugin adds a connection to the top.gg profile page on the connections tab, and adds a new tab to the profile modal which has the data retrieved from the [top.gg](https://top.gg) website.
 
 ### Issues and Suggestions
 
